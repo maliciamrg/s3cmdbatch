@@ -1,0 +1,2 @@
+delete: s3://malicia-warehouse-html/test.txt
+delete: s3://malicia-warehouse-html/test2.htm
