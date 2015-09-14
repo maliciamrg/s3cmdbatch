@@ -1,0 +1,3 @@
+2015-07-02 00:03:19 start
+File '/media/kitchen/source_code/mysqlalldatabase/mysqlalldatabase.sh' stored as 's3://malicia-warehouse-kitchen/source_code/mysqlalldatabase/mysqlalldatabase.sh' (1182 bytes in 2.1 seconds, 553.88 B/s) [4 of 112]
+2015-07-02 19:43:58 stop 

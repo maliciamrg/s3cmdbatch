@@ -1,0 +1,10 @@
+2015-08-11 09:28:32 start
+2015-08-11 09:32:12 start
+2015-08-11 09:45:44 start
+param1  -  param2
+2015-08-11 09:52:48 start
+/mnt/colossus  -  photo
+photo - 2015-08-11 09:59:15 nb upload to aws = 15664 / nb del in aws = 56 / threshold del pour cancel =    0 / nb fichier repetoire = 32275
+2015-08-11 23:00:01 start
+/mnt/colossus  -  photo
+photo - 2015-08-11 23:07:37 nb upload to aws = 15616 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 32275
