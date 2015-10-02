@@ -1,0 +1,96 @@
+param1  -  param2
+/mnt/colossus  -  photo
+deleted: 's3://malicia-warehouse-photo/080203-VID_20080203_174906-4783.mp4'
+deleted: 's3://malicia-warehouse-photo/121003-IMG_20121003_130604.jpg-22810.jpg'
+deleted: 's3://malicia-warehouse-photo/121025-IMG_20121025_130123.jpg-22339.jpg'
+deleted: 's3://malicia-warehouse-photo/121103-VID_20121103_114851-340.mp4'
+deleted: 's3://malicia-warehouse-photo/121109-IMG_20121109_223911.jpg-11757.jpg'
+deleted: 's3://malicia-warehouse-photo/121122-IMG_20121122_121121.jpg-18873.jpg'
+deleted: 's3://malicia-warehouse-photo/121122-IMG_20121122_121122.jpg-4314.jpg'
+deleted: 's3://malicia-warehouse-photo/121122-IMG_20121122_121219.jpg-30722.jpg'
+deleted: 's3://malicia-warehouse-photo/121122-IMG_20121122_121257.jpg-30700.jpg'
+deleted: 's3://malicia-warehouse-photo/121122-IMG_20121122_121318.jpg-30891.jpg'
+deleted: 's3://malicia-warehouse-photo/121130-IMG_20121130_211225.jpg-11537.jpg'
+deleted: 's3://malicia-warehouse-photo/121210-avs_20121210_020723.avs'
+deleted: 's3://malicia-warehouse-photo/121210-avs_20121210_021151.avs'
+deleted: 's3://malicia-warehouse-photo/121210-jpeg_20121210_231920 (2).jpeg'
+deleted: 's3://malicia-warehouse-photo/121210-jpeg_20121210_231920 (3)-31520.jpeg'
+deleted: 's3://malicia-warehouse-photo/121210-jpeg_20121210_231920 (4).jpeg'
+deleted: 's3://malicia-warehouse-photo/121214-IMG_20121214_131623.jpg-3360.jpg'
+deleted: 's3://malicia-warehouse-photo/121214-IMG_20121214_131627.jpg-3574.jpg'
+deleted: 's3://malicia-warehouse-photo/121217-VID_20121217_195714.mp4-458.mp4'
+deleted: 's3://malicia-warehouse-photo/121217-VID_20121217_195904.mp4-769.mp4'
+deleted: 's3://malicia-warehouse-photo/121218-IMG_20121218_132552.jpg-4193.jpg'
+deleted: 's3://malicia-warehouse-photo/121224-IMAG1070.jpg-3870.jpg'
+deleted: 's3://malicia-warehouse-photo/121224-IMG_20121224_102235.jpg-11197.jpg'
+deleted: 's3://malicia-warehouse-photo/130122-IMG_20130122_194651.jpg-14821.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005320.jpg-22700.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005332.jpg-21826.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005352.jpg-23468.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005402.jpg-22225.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005415.jpg-24475.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005449.jpg-23158.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005507.jpg-21205.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005516.jpg-25080.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005524.jpg-25461.jpg'
+deleted: 's3://malicia-warehouse-photo/130223-IMG_20130223_005533.jpg-24719.jpg'
+deleted: 's3://malicia-warehouse-photo/130310-IMG_20130310_193336.jpg-12434.jpg'
+deleted: 's3://malicia-warehouse-photo/130315-IMG_20130315_145026.jpg-14544.jpg'
+deleted: 's3://malicia-warehouse-photo/130316-IMAG1416.jpg-1237.jpg'
+deleted: 's3://malicia-warehouse-photo/130316-IMAG1417.jpg-1688.jpg'
+deleted: 's3://malicia-warehouse-photo/130422-IMG_20130422_192550.jpg-10220.jpg'
+deleted: 's3://malicia-warehouse-photo/130427-IMG_20130427_014945.jpg-6474.jpg'
+deleted: 's3://malicia-warehouse-photo/130427-IMG_20130427_015240.JPG-8023.JPG'
+deleted: 's3://malicia-warehouse-photo/130525-VID_20130525_164443.mp4'
+deleted: 's3://malicia-warehouse-photo/130702-IMG_20130702_201414.jpg-8548.jpg'
+deleted: 's3://malicia-warehouse-photo/130707-IMG_20130707_160016.jpg-9115.jpg'
+deleted: 's3://malicia-warehouse-photo/130810-VID_20130810_165327.mp4-30.mp4'
+deleted: 's3://malicia-warehouse-photo/130916-IMG_20130916_191049.jpg-5994.jpg'
+deleted: 's3://malicia-warehouse-photo/130921-VID_20130921_213048.mp4-829.mp4'
+deleted: 's3://malicia-warehouse-photo/131004-VID_20131004_193315.mp4-599.mp4'
+deleted: 's3://malicia-warehouse-photo/131104-IMG_20131104_203512.JPG-4113.JPG'
+deleted: 's3://malicia-warehouse-photo/131210-IMAG0041.jpg-4618.jpg'
+deleted: 's3://malicia-warehouse-photo/131213-IMAG0045.jpg-11692.jpg'
+deleted: 's3://malicia-warehouse-photo/131214-IMAG0049.jpg-12640.jpg'
+deleted: 's3://malicia-warehouse-photo/131214-IMAG0050.jpg-11429.jpg'
+deleted: 's3://malicia-warehouse-photo/131214-IMG_20131214_115004.jpg-22524.jpg'
+deleted: 's3://malicia-warehouse-photo/131214-IMG_20131214_115554.jpg-14109.jpg'
+deleted: 's3://malicia-warehouse-photo/2013 - Pacs Sandrine Romain.cxf'
+File '/mnt/colossus/photo/2012/10/121218-IMG_20121218_132552.jpg-4193.jpg' stored as 's3://malicia-warehouse-photo/2012/10/121218-IMG_20121218_132552.jpg-4193.jpg' (2658188 bytes in 126.0 seconds, 20.59 kB/s) [1 of 15664]
+File '/mnt/colossus/photo/2012/11/121122-IMG_20121122_121121.jpg-18873.jpg' stored as 's3://malicia-warehouse-photo/2012/11/121122-IMG_20121122_121121.jpg-18873.jpg' (622577 bytes in 31.7 seconds, 19.19 kB/s) [2 of 15664]
+File '/mnt/colossus/photo/2012/11/121122-IMG_20121122_121122.jpg-4314.jpg' stored as 's3://malicia-warehouse-photo/2012/11/121122-IMG_20121122_121122.jpg-4314.jpg' (2585034 bytes in 121.4 seconds, 20.79 kB/s) [3 of 15664]
+File '/mnt/colossus/photo/2012/11/121224-IMAG1070.jpg-3870.jpg' stored as 's3://malicia-warehouse-photo/2012/11/121224-IMAG1070.jpg-3870.jpg' (2865586 bytes in 130.2 seconds, 21.50 kB/s) [4 of 15664]
+File '/mnt/colossus/photo/2012/12/121214-IMG_20121214_131623.jpg-3360.jpg' stored as 's3://malicia-warehouse-photo/2012/12/121214-IMG_20121214_131623.jpg-3360.jpg' (3100061 bytes in 146.3 seconds, 20.70 kB/s) [5 of 15664]
+File '/mnt/colossus/photo/2012/13/121025-IMG_20121025_130123.jpg-22339.jpg' stored as 's3://malicia-warehouse-photo/2012/13/121025-IMG_20121025_130123.jpg-22339.jpg' (522592 bytes in 19.6 seconds, 26.09 kB/s) [6 of 15664]
+File '/mnt/colossus/photo/2012/14/121003-IMG_20121003_130604.jpg-22810.jpg' stored as 's3://malicia-warehouse-photo/2012/14/121003-IMG_20121003_130604.jpg-22810.jpg' (509601 bytes in 24.4 seconds, 20.44 kB/s) [7 of 15664]
+File '/mnt/colossus/photo/2012/14/121130-IMG_20121130_211225.jpg-11537.jpg' stored as 's3://malicia-warehouse-photo/2012/14/121130-IMG_20121130_211225.jpg-11537.jpg' (1023259 bytes in 43.9 seconds, 22.76 kB/s) [8 of 15664]
+File '/mnt/colossus/photo/2012/14/121224-IMG_20121224_102235.jpg-11197.jpg' stored as 's3://malicia-warehouse-photo/2012/14/121224-IMG_20121224_102235.jpg-11197.jpg' (1064862 bytes in 52.5 seconds, 19.79 kB/s) [9 of 15664]
+File '/mnt/colossus/photo/2012/16/121214-IMG_20121214_131627.jpg-3574.jpg' stored as 's3://malicia-warehouse-photo/2012/16/121214-IMG_20121214_131627.jpg-3574.jpg' (3004552 bytes in 134.0 seconds, 21.90 kB/s) [10 of 15664]
+File '/mnt/colossus/photo/2012/19/121109-IMG_20121109_223911.jpg-11757.jpg' stored as 's3://malicia-warehouse-photo/2012/19/121109-IMG_20121109_223911.jpg-11757.jpg' (1002912 bytes in 37.5 seconds, 26.11 kB/s) [11 of 15664]
+File '/mnt/colossus/photo/2013/01/130122-IMG_20130122_194651.jpg-14821.jpg' stored as 's3://malicia-warehouse-photo/2013/01/130122-IMG_20130122_194651.jpg-14821.jpg' (775703 bytes in 26.0 seconds, 29.18 kB/s) [12 of 15664]
+File '/mnt/colossus/photo/2013/01/130223-IMG_20130223_005332.jpg-21826.jpg' stored as 's3://malicia-warehouse-photo/2013/01/130223-IMG_20130223_005332.jpg-21826.jpg' (535902 bytes in 18.9 seconds, 27.74 kB/s) [13 of 15664]
+File '/mnt/colossus/photo/2013/01/130223-IMG_20130223_005402.jpg-22225.jpg' stored as 's3://malicia-warehouse-photo/2013/01/130223-IMG_20130223_005402.jpg-22225.jpg' (525706 bytes in 20.4 seconds, 25.19 kB/s) [14 of 15664]
+File '/mnt/colossus/photo/2013/02/130223-IMG_20130223_005352.jpg-23468.jpg' stored as 's3://malicia-warehouse-photo/2013/02/130223-IMG_20130223_005352.jpg-23468.jpg' (493772 bytes in 19.0 seconds, 25.42 kB/s) [15 of 15664]
+File '/mnt/colossus/photo/2013/02/130316-IMAG1417.jpg-1688.jpg' stored as 's3://malicia-warehouse-photo/2013/02/130316-IMAG1417.jpg-1688.jpg' (4368706 bytes in 194.3 seconds, 21.96 kB/s) [16 of 15664]
+File '/mnt/colossus/photo/2013/03/080203-VID_20080203_174906-4783.mp4' stored as 's3://malicia-warehouse-photo/2013/03/080203-VID_20080203_174906-4783.mp4' (2364390 bytes in 105.1 seconds, 21.98 kB/s) [17 of 15664]
+File '/mnt/colossus/photo/2013/03/121103-VID_20121103_114851-340.mp4' stored as 's3://malicia-warehouse-photo/2013/03/121103-VID_20121103_114851-340.mp4' (69420821 bytes in 3249.6 seconds, 20.86 kB/s) [18 of 15664]
+File '/mnt/colossus/photo/2013/03/121122-IMG_20121122_121219.jpg-30722.jpg' stored as 's3://malicia-warehouse-photo/2013/03/121122-IMG_20121122_121219.jpg-30722.jpg' (107675 bytes in 3.3 seconds, 31.77 kB/s) [19 of 15664]
+File '/mnt/colossus/photo/2013/03/121122-IMG_20121122_121257.jpg-30700.jpg' stored as 's3://malicia-warehouse-photo/2013/03/121122-IMG_20121122_121257.jpg-30700.jpg' (109841 bytes in 5.3 seconds, 20.12 kB/s) [20 of 15664]
+File '/mnt/colossus/photo/2013/03/121122-IMG_20121122_121318.jpg-30891.jpg' stored as 's3://malicia-warehouse-photo/2013/03/121122-IMG_20121122_121318.jpg-30891.jpg' (91547 bytes in 5.5 seconds, 16.17 kB/s) [21 of 15664]
+File '/mnt/colossus/photo/2013/03/121210-avs_20121210_020723.avs' stored as 's3://malicia-warehouse-photo/2013/03/121210-avs_20121210_020723.avs' (107 bytes in 1.0 seconds, 105.20 B/s) [22 of 15664]
+File '/mnt/colossus/photo/2013/03/121210-avs_20121210_021151.avs' stored as 's3://malicia-warehouse-photo/2013/03/121210-avs_20121210_021151.avs' (112 bytes in 0.5 seconds, 212.64 B/s) [23 of 15664]
+File '/mnt/colossus/photo/2013/03/121217-VID_20121217_195714.mp4-458.mp4' stored as 's3://malicia-warehouse-photo/2013/03/121217-VID_20121217_195714.mp4-458.mp4' (48553346 bytes in 2272.5 seconds, 20.87 kB/s) [24 of 15664]
+File '/mnt/colossus/photo/2013/03/121217-VID_20121217_195904.mp4-769.mp4' stored as 's3://malicia-warehouse-photo/2013/03/121217-VID_20121217_195904.mp4-769.mp4' (18261123 bytes in 836.8 seconds, 21.31 kB/s) [25 of 15664]
+File '/mnt/colossus/photo/2013/03/130223-IMG_20130223_005533.jpg-24719.jpg' stored as 's3://malicia-warehouse-photo/2013/03/130223-IMG_20130223_005533.jpg-24719.jpg' (465349 bytes in 20.5 seconds, 22.14 kB/s) [26 of 15664]
+File '/mnt/colossus/photo/2013/03/130316-IMAG1416.jpg-1237.jpg' stored as 's3://malicia-warehouse-photo/2013/03/130316-IMAG1416.jpg-1237.jpg' (5440606 bytes in 257.3 seconds, 20.65 kB/s) [27 of 15664]
+File '/mnt/colossus/photo/2013/03/Montage Laureline.cxf' stored as 's3://malicia-warehouse-photo/2013/03/Montage Laureline.cxf' (6099 bytes in 1.6 seconds, 3.67 kB/s) [28 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0001.mp4-836.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0001.mp4-836.mp4' (14718967 bytes in 668.0 seconds, 21.52 kB/s) [29 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0002.mp4-1189.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0002.mp4-1189.mp4' (5831024 bytes in 263.6 seconds, 21.61 kB/s) [30 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0007.mp4-966.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0007.mp4-966.mp4' (9005730 bytes in 422.4 seconds, 20.82 kB/s) [31 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0008.mp4-700.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0008.mp4-700.mp4' (21989623 bytes in 1025.7 seconds, 20.94 kB/s) [32 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0011.mp4-621.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0011.mp4-621.mp4' (29688474 bytes in 1357.5 seconds, 21.36 kB/s) [33 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0012.mp4-477.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0012.mp4-477.mp4' (46069658 bytes in 2013.5 seconds, 22.34 kB/s) [34 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0013.mp4-498.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0013.mp4-498.mp4' (43843741 bytes in 1933.6 seconds, 22.14 kB/s) [35 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0014.mp4-456.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0014.mp4-456.mp4' (49493406 bytes in 2211.3 seconds, 21.86 kB/s) [36 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0015.mp4-427.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0015.mp4-427.mp4' (54852860 bytes in 2344.9 seconds, 22.84 kB/s) [37 of 15664]
+File '/mnt/colossus/photo/2013/03/VIDEO0016.mp4-141.mp4' stored as 's3://malicia-warehouse-photo/2013/03/VIDEO0016.mp4-141.mp4' (122430692 bytes in 505/mnt/colossus  -  photo
