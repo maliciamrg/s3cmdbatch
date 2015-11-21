@@ -1,0 +1,125 @@
+2015-11-17 17:07:56 archsync2s3cmd.sh v2
+2015-11-17 17:07:56 start
+2015-11-17 17:15:32 archsync2s3cmd.sh v2
+2015-11-17 17:15:32 start
+2015-11-17 17:16:43 archsync2s3cmd.sh v2
+2015-11-17 17:16:43 start
+2015-11-17 17:16:47 stop
+2015-11-17 17:21:44 archsync2s3cmd.sh v2
+2015-11-17 17:21:44 start
+2015-11-17 17:21:46 stop
+2015-11-17 17:22:04 archsync2s3cmd.sh v2
+2015-11-17 17:22:04 start
+2015-11-17 17:22:04 stop
+2015-11-17 17:24:19 archsync2s3cmd.sh v2
+2015-11-17 17:24:19 start
+2015-11-17 17:24:19 locked
+/mnt/colossus  -  photo
+photo - 2015-11-17 17:24:24 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 32782
+photo - 2015-11-17 17:24:27 done
+/mnt/colossus  -  office
+office - 2015-11-17 17:24:28 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 1460
+office - 2015-11-17 17:24:33 done
+/mnt/colossus  -  home_desk
+home_desk - 2015-11-17 17:24:34 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 584
+home_desk - 2015-11-17 17:24:38 done
+/mnt/diablo  -  kitchen
+kitchen - 2015-11-17 17:24:42 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 29700
+kitchen - 2015-11-17 17:24:47 done
+2015-11-17 17:24:47 unlocked 
+2015-11-17 17:24:47 stop
+2015-11-17 17:26:39 archsync2s3cmd.sh v2
+2015-11-17 17:26:39 start
+2015-11-17 17:26:39 locked
+/mnt/colossus  -  photo
+photo - 2015-11-17 17:26:41 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 32782
+photo - 2015-11-17 17:26:45 done
+/mnt/colossus  -  office
+office - 2015-11-17 17:26:46 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 1460
+office - 2015-11-17 17:26:50 done
+/mnt/colossus  -  home_desk
+home_desk - 2015-11-17 17:26:51 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 584
+home_desk - 2015-11-17 17:26:55 done
+/mnt/diablo  -  kitchen
+kitchen - 2015-11-17 17:26:57 nb upload to aws = 0 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 29700
+kitchen - 2015-11-17 17:27:01 done
+2015-11-17 17:27:01 unlocked 
+2015-11-17 17:27:01 stop
+2015-11-17 17:47:19 archsync2s3cmd.sh v2
+2015-11-17 17:47:19 start
+2015-11-17 17:47:19 stop
+2015-11-17 17:49:25 archsync2s3cmd.sh v2
+2015-11-17 17:49:25 start
+2015-11-17 17:49:25 stop
+2015-11-17 18:03:17 archsync2s3cmd.sh v2
+2015-11-17 18:03:17 start
+2015-11-17 18:03:17 stop
+2015-11-17 18:05:50 archsync2s3cmd.sh v2
+2015-11-17 18:05:50 start
+2015-11-17 18:05:50 stop
+2015-11-17 18:06:31 archsync2s3cmd.sh v2
+2015-11-17 18:06:31 start
+2015-11-17 18:06:31 stop
+2015-11-17 18:07:08 archsync2s3cmd.sh v2
+2015-11-17 18:07:08 start
+2015-11-17 18:07:08 stop
+2015-11-17 18:08:07 archsync2s3cmd.sh v2
+2015-11-17 18:08:07 start
+2015-11-17 18:08:07 stop
+2015-11-17 18:09:59 archsync2s3cmd.sh v2
+2015-11-17 18:09:59 start
+2015-11-17 18:09:59 stop
+2015-11-17 18:10:22 archsync2s3cmd.sh v2
+2015-11-17 18:10:22 start
+2015-11-17 18:10:22 stop
+2015-11-17 18:10:25 archsync2s3cmd.sh v2
+2015-11-17 18:10:25 start
+2015-11-17 18:10:25 stop
+2015-11-17 18:10:44 archsync2s3cmd.sh v2
+2015-11-17 18:10:44 start
+2015-11-17 18:10:44 stop
+2015-11-17 18:12:39 archsync2s3cmd.sh v2
+2015-11-17 18:12:39 start
+2015-11-17 18:12:39 stop
+2015-11-17 18:13:30 archsync2s3cmd.sh v2
+2015-11-17 18:13:30 start
+2015-11-17 18:13:30 stop
+2015-11-17 18:14:29 archsync2s3cmd.sh v2
+2015-11-17 18:14:29 start
+2015-11-17 18:14:29 stop
+2015-11-17 18:16:05 archsync2s3cmd.sh v2
+2015-11-17 18:16:05 start
+2015-11-17 18:16:05 stop
+2015-11-17 18:17:48 archsync2s3cmd.sh v2
+2015-11-17 18:17:48 start
+2015-11-17 18:17:55 stop
+2015-11-17 18:21:07 archsync2s3cmd.sh v2
+2015-11-17 18:21:07 start
+2015-11-17 18:21:07 stop
+2015-11-17 18:23:17 archsync2s3cmd.sh v2
+2015-11-17 18:23:17 start
+2015-11-17 18:23:17 stop
+2015-11-17 18:25:57 archsync2s3cmd.sh v2
+2015-11-17 18:25:57 start
+2015-11-17 18:25:57 stop
+2015-11-17 18:27:27 archsync2s3cmd.sh v2
+2015-11-17 18:27:27 start
+2015-11-17 18:27:27 stop
+2015-11-17 18:28:02 archsync2s3cmd.sh v2
+2015-11-17 18:28:02 start
+2015-11-17 18:28:02 stop
+2015-11-17 18:29:28 archsync2s3cmd.sh v2
+2015-11-17 18:29:28 start
+2015-11-17 18:29:28 stop
+2015-11-17 18:30:37 archsync2s3cmd.sh v2
+2015-11-17 18:30:37 start
+2015-11-17 18:30:37 stop
+2015-11-17 18:32:30 archsync2s3cmd.sh v2
+2015-11-17 18:32:30 start
+2015-11-17 18:32:30 stop
+2015-11-17 18:33:42 archsync2s3cmd.sh v2
+2015-11-17 18:33:42 start
+2015-11-17 18:33:42 stop
+2015-11-17 18:35:38 archsync2s3cmd.sh v2
+2015-11-17 18:35:38 start
+2015-11-17 18:35:40 stop

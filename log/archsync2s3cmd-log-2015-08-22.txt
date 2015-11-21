@@ -1,3 +1,0 @@
-2015-08-22 23:00:02 start
-/mnt/colossus  -  photo
-photo - 2015-08-22 23:07:01 nb upload to aws = 15019 / nb del in aws = 0 / threshold del pour cancel =    0 / nb fichier repetoire = 32312
