@@ -1,3 +1,7 @@
+#ignore projet
+*.txt
+0*
+/log/
 
 # ignore_for_eclipse
 /bin/

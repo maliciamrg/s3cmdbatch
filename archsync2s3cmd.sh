@@ -42,6 +42,7 @@ echo "$(date +"%F %T") start" >> "./log/archsync2s3cmd-log-${dtl}.txt"
             	php ./../tweet/tweet.php "archsync2s3cmd : lancement backup pour $param2 => $nbupl (nbupload) , $nbdel (nbdel) "
 				s3cmd sync $param1/$param2/ -p -r -v --delete-removed s3://malicia-warehouse-$param2/ >> "./log/archsync2s3cmd-log-${dtl}-s3cmd.txt"
 				echo "${param2} - $(date +"%F %T") done" >> "./log/archsync2s3cmd-log-${dtl}.txt"
+				php ./../tweet/tweet.php "archsync2s3cmd : fin backup pour $param2"
 			fi;
 		fi;
 	done 

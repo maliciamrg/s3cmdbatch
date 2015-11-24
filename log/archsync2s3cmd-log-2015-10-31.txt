@@ -1,4 +1,0 @@
-2015-10-31 23:00:02 start
-2015-10-31 23:00:02 locked
-/mnt/colossus  -  photo
-photo - 2015-10-31 23:29:46 nb upload to aws = 5676 / nb del in aws = 8572 / threshold del pour cancel =    0 / nb fichier repetoire = 32635
