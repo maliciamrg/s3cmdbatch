@@ -32,6 +32,6 @@ echo "$(date +"%F %T") start" >> "./log/archsync2s3cmd-log-${dtl}.txt"
 		fi
 	done 
 	exec 0<&-
-	echo "$(date +"%F %T") stop "  >> "./log/archsync2s3cmd-log-${dtl}.txt"
+	echo "$(date +"%F %T") unlock "  >> "./log/archsync2s3cmd-log-${dtl}.txt"
 ) 200>archsync2s3cmd.lock
-echo "$(date +"%F %T") unlocked" >> "./log/archsync2s3cmd-log-${dtl}.txt"
+echo "$(date +"%F %T") stop" >> "./log/archsync2s3cmd-log-${dtl}.txt"

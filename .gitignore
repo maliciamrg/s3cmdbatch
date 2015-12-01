@@ -1,8 +1,6 @@
-
-# ignore_for_eclipse
-/bin/
-.classpath
-.project
+/log/
+*.txt
+*.lock
 
 # ignore_for_eclipse
 /bin/
