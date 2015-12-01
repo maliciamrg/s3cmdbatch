@@ -1,5 +1,7 @@
-/log/
+#ignore projet
 *.txt
+0*
+/log/
 *.lock
 
 # ignore_for_eclipse
