@@ -9,7 +9,7 @@ echo "$(date +"%F %T") start" >> "./log/archsync2s3cmd-log-${dtl}.txt"
         numd=$((`expr index "$filestring" :` + 2))
         lend=$((`expr index "${filestring:$numd}" /` - 1))
         numf=$((`expr index "$filestring" [` - 1))
-        php ./../tweet/tweet.php "archsync2s3cmd : backup en cours ${filestring:$numf} sur ${filestring:$numd:lend}"
+        tweet "archsync2s3cmd : backup en cours ${filestring:$numf} sur ${filestring:$numd:lend}"
     	exit 1
     }
     flock -n 200 || quit;
@@ -31,18 +31,18 @@ echo "$(date +"%F %T") start" >> "./log/archsync2s3cmd-log-${dtl}.txt"
 		percent=0.01
 		nbfillvl=$(echo $percent $nbfil | awk '{printf "%4d\n",$param1*$param2}')
 		echo "${param2} - $(date +"%F %T") nb upload to aws = $nbupl / nb del in aws = $nbdel / threshold del pour cancel = $nbfillvl / nb fichier repetoire = $nbfil"  >> "./log/archsync2s3cmd-log-${dtl}.txt"
-		if [$nbupl < 0] ;	then
+		if ["$nbupl" -lt 0] ;	then
 			echo "-- rien a trasferet on stop --" >> "./log/archsync2s3cmd-log-${dtl}-s3cmd.txt"
 			echo "${param2} - $(date +"%F %T") nothing " >> "./log/archsync2s3cmd-log-${dtl}.txt"
 		else
-			if [$nbdel > $nbfillvl] ;	then
+			if ["$nbdel" -gt "$nbfillvl"] ;	then
 				echo "-- trop de delete on stop --" >> "./log/archsync2s3cmd-log-${dtl}-s3cmd.txt"
 				echo "${param2} - $(date +"%F %T") not done threshold delete" >> "./log/archsync2s3cmd-log-${dtl}.txt"
 			else
-            	php ./../tweet/tweet.php "archsync2s3cmd : lancement backup pour $param2 => $nbupl (nbupload) , $nbdel (nbdel) "
+            	tweet "archsync2s3cmd : lancement backup pour $param2 => $nbupl (nbupload) , $nbdel (nbdel) "
 				s3cmd sync $param1/$param2/ -p -r -v --delete-removed s3://malicia-warehouse-$param2/ >> "./log/archsync2s3cmd-log-${dtl}-s3cmd.txt"
 				echo "${param2} - $(date +"%F %T") done" >> "./log/archsync2s3cmd-log-${dtl}.txt"
-				php ./../tweet/tweet.php "archsync2s3cmd : fin backup pour $param2"
+				tweet "archsync2s3cmd : fin backup pour $param2"
 			fi;
 		fi;
 	done 
