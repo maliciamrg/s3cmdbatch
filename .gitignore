@@ -5,6 +5,7 @@
 0*
 /log/
 *.lock
+dryrunout*
 
 # ignore_for_eclipse
 /bin/
